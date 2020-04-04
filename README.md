@@ -17,16 +17,10 @@ Author: Sarthak Das Roy
 
 > __Dataset details: __ 
 
-> Dataset Name            : Chest X-Ray Images (Pneumonia)
->
-> Number of Class         : 2
->
-> Number/Size of Images   : 
->
->> Total      : 5856 (1.15 Gigabyte (GB))
->
->> Training   : 5216 (1.07 Gigabyte (GB))
->
->> Validation : 320  (42.8 Megabyte (MB))
->
->> Testing    : 320  (35.4 Megabyte (MB))
+> Dataset Name            : Chest X-Ray Images (Pneumonia) <br /> 
+> Number of Class         : 2 <br /> 
+> Number/Size of Images   :  <br /> 
+>> Total      : 5856 (1.15 Gigabyte (GB)) <br /> 
+>> Training   : 5216 (1.07 Gigabyte (GB)) <br /> 
+>> Validation : 320  (42.8 Megabyte (MB)) <br /> 
+>> Testing    : 320  (35.4 Megabyte (MB)) <br /> 
