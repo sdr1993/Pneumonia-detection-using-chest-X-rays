@@ -15,8 +15,7 @@ Author: Sarthak Das Roy
                    (Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, M. Anthony Lewis, Huimin Xia, Kang Zhang)
                    https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5 <br /> 
 
-> __Dataset details: __ 
-
+> #### Dataset details:
 > Dataset Name            : Chest X-Ray Images (Pneumonia) <br /> 
 > Number of Class         : 2 <br /> 
 > Number/Size of Images   :  <br /> 
