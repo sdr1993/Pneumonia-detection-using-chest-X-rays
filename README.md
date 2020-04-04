@@ -2,7 +2,7 @@
 Pneumonia detection using chest X-rays: Deep Learning
 Author: Sarthak Das Roy
 
-> ### Overview: ###  
+> **Overview:  
 Domain             : Computer Vision, Machine Learning <br /> 
 Sub-Domain         : Deep Learning, Image Recognition <br />
 Techniques         : Deep Convolutional Neural Network, ImageNet, VGG-16 <br />
