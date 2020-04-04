@@ -8,7 +8,7 @@ Author: Sarthak Das Roy
 > Techniques         : Deep Convolutional Neural Network, ImageNet, VGG-16 <br />
 > Application        : Image Recognition, Image Classification, Medical Imaging <br />
 
-> __Data: __
+> __Data: __  <br />
 > Dataset Name     : Chest X-Ray Images (Pneumonia) <br /> 
 > Dataset Link     : Chest X-Ray Images (Pneumonia) Dataset (![Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)) <br /> 
 > Original Paper   : Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning
