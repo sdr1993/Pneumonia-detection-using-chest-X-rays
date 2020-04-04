@@ -2,6 +2,8 @@
 Pneumonia detection using chest X-rays: Deep Learning <br /> 
 Author: Sarthak Das Roy
 
+![Tux, the Linux mascot](/assets/images/tux.png)
+
 > __Overview:__  
 > Domain             : Computer Vision, Machine Learning <br /> 
 > Sub-Domain         : Deep Learning, Image Recognition <br />
