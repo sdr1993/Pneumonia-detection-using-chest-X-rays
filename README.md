@@ -27,7 +27,7 @@ Author: Sarthak Das Roy
 >> Testing    : 320  (35.4 Megabyte (MB)) <br /> 
 
 
-> #### Model details: ####<br /> 
+> #### Model details: <br /> 
 
 Detected Pneumonia from Chest X-Ray images using Custom Deep Convololutional Neural Network. <br /> 
 >Model Architecture: 
@@ -40,7 +40,7 @@ Detected Pneumonia from Chest X-Ray images using Custom Deep Convololutional Neu
 >> - The model is then compiled using 'adam' optimizer with 'binary_crossentropy' as the loss funtion and 'accuracy' as the metrics. <br />
 
 
-> #### Model Performance: #### <br />
+> #### Model Performance: <br />
 
 
 After completing 25 epochs the model performance is listed below. <br />
