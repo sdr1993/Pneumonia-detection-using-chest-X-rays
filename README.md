@@ -7,7 +7,7 @@ Author: Sarthak Das Roy
 > __Overview:__  
 > Domain             : Computer Vision, Machine Learning <br /> 
 > Sub-Domain         : Deep Learning, Image Recognition <br />
-> Techniques         : Deep Convolutional Neural Network, ImageNet, VGG-16 <br />
+> Techniques         : Deep Convolutional Neural Network <br />
 > Application        : Image Recognition, Image Classification, Medical Imaging <br />
 
 > #### Data:  
