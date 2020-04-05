@@ -31,13 +31,13 @@ Author: Sarthak Das Roy
 
 Detected Pneumonia from Chest X-Ray images using Custom Deep Convololutional Neural Network. <br /> 
 >Model Architecture: 
->>The model is built on Convolution-Pooling layers set back to back. <br />
->>All the convolution layer have 32 filters with a (3*3) filter formation. <br />
->>The weights are initialized uniformly and rectified linear ('relu') activation function is used. <br />
->>Pooling layers of pool size (2*2) is used after each convolution operation. <br />
->>Post Flattening the layers, two more dense layers are added with 256 nodes with rectified linear activation function. <br />
->>Final layer with a single node and a probabilistic 'sigmoid' activation function is used. <br />
->>The model is then compiled using 'adam' optimizer with 'binary_crossentropy' as the loss funtion and 'accuracy' as the metrics. <br />
+>> - The model is built on Convolution-Pooling layers set back to back. <br />
+>> - All the convolution layer have 32 filters with a (3*3) filter formation. <br />
+>> - The weights are initialized uniformly and rectified linear ('relu') activation function is used. <br />
+>> - Pooling layers of pool size (2*2) is used after each convolution operation. <br />
+>> - Post Flattening the layers, two more dense layers are added with 256 nodes with rectified linear activation function. <br />
+>> - Final layer with a single node and a probabilistic 'sigmoid' activation function is used. <br />
+>> - The model is then compiled using 'adam' optimizer with 'binary_crossentropy' as the loss funtion and 'accuracy' as the metrics. <br />
 
 
 > #### Model Performance: #### <br />
@@ -45,5 +45,5 @@ Detected Pneumonia from Chest X-Ray images using Custom Deep Convololutional Neu
 
 After completing 25 epochs the model performance is listed below. <br />
 
->> Training set: Accuracy: 96.22% Loss: 10.33% <br />
->> Test set: Val_accuracy: 91.03% Val_loss: 46.61% <br />
+- Training set: Accuracy: 96.22% Loss: 10.33% <br />
+- Test set: Val_accuracy: 91.03% Val_loss: 46.61% <br />
